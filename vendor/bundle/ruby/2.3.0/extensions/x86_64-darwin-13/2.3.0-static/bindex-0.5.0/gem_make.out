@@ -1,0 +1,15 @@
+current directory: /Users/kaori/rails_projects/jpaddress-rails/vendor/bundle/ruby/2.3.0/gems/bindex-0.5.0/ext/bindex
+/Users/kaori/.rbenv/versions/2.3.0/bin/ruby -r ./siteconf20170622-9144-93tcg6.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kaori/rails_projects/jpaddress-rails/vendor/bundle/ruby/2.3.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/kaori/rails_projects/jpaddress-rails/vendor/bundle/ruby/2.3.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/kaori/rails_projects/jpaddress-rails/vendor/bundle/ruby/2.3.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20170622-9144-yijrnq/bindex
